@@ -1,5 +1,5 @@
 # QGIS Practice: Suitable Swellendam Houses
-This is a practice exercise completed as part of the [QGIS Training Manual](https://docs.qgis.org/3.34/en/docs/training_manual/index.html), which is a component of the QGIS Documentation. The purpose was to learn and practice QGIS and geospatial skills. The data used in the practice is not my own, but was provided either by the training manual or Open Street Map.
+This is a part of a series of lessons completed by following the tutorials outlined in the [QGIS Training Manual](https://docs.qgis.org/3.34/en/docs/training_manual/index.html), which is a component of the QGIS Documentation. The purpose was to learn and practice QGIS and geospatial skills. The lesson and data used in the practice is not my own, but was provided either by the QGIS Training Manual or Open Street Map.
 
 **Specific Skills:**
 - QGIS Environment
